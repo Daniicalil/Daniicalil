@@ -16,6 +16,6 @@
 ---
 
 <div align = "center">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellecalil&show_icons=true&theme=nightowl&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=daniellecalil&show_icons=true&show_icons=true&theme=nightowl&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniicalil&show_icons=true&theme=nightowl&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=daniicalil&show_icons=true&show_icons=true&theme=nightowl&count_private=true" />
 </div>
