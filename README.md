@@ -2,8 +2,6 @@
 
 # Seja Bem Vinda(o) ao meu GitHub! ❤️
 
-<a href="https://instagram.com/daniicalil" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-
 - 💻 Estudante de Téc. em Desenvolvimento de Sistemas
 - 💕 Desenvolvedora em aprendizado
 
